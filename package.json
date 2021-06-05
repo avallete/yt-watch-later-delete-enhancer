@@ -98,7 +98,7 @@
     "@testing-library/preact": "2.0.1",
     "@typed/compose": "1.0.0",
     "@types/app-root-path": "1.2.4",
-    "@types/classnames": "2.2.11",
+    "@types/classnames": "2.3.0",
     "@types/js-cookie": "2.2.6",
     "@types/jsdom": "16.2.10",
     "@types/sha1": "1.1.2",
